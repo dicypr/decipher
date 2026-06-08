@@ -1,0 +1,15 @@
+{
+  "id": "tokyo-night",
+  "name": "Tokyo Night",
+  "author": "dicypr",
+  "price": 150,
+  "colors": {
+    "background": "#1a1b26",
+    "surface": "#24283b",
+    "elevated": "#2f3549",
+    "primary": "#7aa2f7",
+    "accent": "#bb9af7",
+    "text": "#c0caf5",
+    "textMuted": "#565f89"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dark-cinematic",
+  "name": "Dark Cinematic",
+  "author": "dicypr",
+  "price": 0,
+  "default": true,
+  "colors": {
+    "background": "#0a0a0f",
+    "surface": "#151520",
+    "elevated": "#1c1c2e",
+    "primary": "#6366f1",
+    "accent": "#a5b4fc",
+    "text": "#e2e8f0",
+    "textMuted": "#475569"
+  }
+}
